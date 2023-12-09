@@ -1,4 +1,3 @@
-
 # <p align="center">Introduction to pointers</p>
 ## <p align="center">How memory works</p>
 

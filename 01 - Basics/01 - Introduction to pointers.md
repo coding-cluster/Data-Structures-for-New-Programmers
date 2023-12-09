@@ -2,7 +2,7 @@
 ## <p align="center">How memory works</p>
 
 When we talk about program execution, we mostly talk about the RAM (Random Access Memory)
-and it can be thought of as a big array of bytes. Bytes are the basic units of inforation
+and it can be thought of as a big array of bytes. Bytes are the basic units of 
 information in computer storage, they consist of eight binary digits. Each of these bytes
 represent one space in memory, and each of them has an address. So, when we declare variables
 in C or C++, we are storing these bytes in memory, and we are giving them an address. Of
@@ -13,12 +13,12 @@ Let's take a look at the following example:
 
 ```int a;``` <- This is an integer a, and it takes 4 bytes in memory (i.e. if this variable
 is declared in the space 203, because each integer takes up to 4 bytes, it will be stored in
-the space 203, 204, 205, 206).
+the spaces 203, 204, 205, 206).
 
 ## <p align="center">What are pointers?</p>
 
 Pointers are practically variables that store the address of another variable, so, let's
-imagine that we want to store the address of a, well, we can do it like this:
+imagine that we want to store the address of `a`, well, we can do it like this:
 
 ```c
 #include <stdio.h>
@@ -75,7 +75,7 @@ the next lesson.
 
 ## <p align="center">Recap</p>
 
-1. Information is stored in bytes in your memory, and every byte has an address, hence information too
+1. Information is stored in bytes in your memory, and every byte has an address, hence information has too
 1. Pointing allows you to refer to the datum or information stored in a specific memory location
 1. A reference points to the data stored as well as the memory address
 1. A dereference lets you manipulate the data refered

@@ -7,13 +7,13 @@ information in computer storage, they consist of eight binary digits. Each of th
 represent one space in memory, and each of them has an address. So, when we declare variables
 in C or C++, we are storing these bytes in memory, and we are giving them an address. Of
 course, the amount of bytes we take up in memory, depends on the data type (e.g. int and
-float take up to 4 bytes, and char takes up to 1 byte).
+float can take up to 4 bytes, while char can take up to 1 byte).
 
 Let's take a look at the following example:
 
-```int a;``` <- This is an integer a, and it takes 4 bytes in memory (i.e. if this variable
-is declared in the space 203, because each integer takes up to 4 bytes, it will be stored in
-the spaces 203, 204, 205, 206).
+```int a;``` <- This is an integer a, and it can take up to 4 bytes in memory (i.e. if this variable
+is declared in the space 203, because each integer can take up to 4 bytes, four spaces in memory will be
+reserved for that variable. These spaces will be 203, 204, 205, 206).
 
 ## <p align="center">What are pointers?</p>
 

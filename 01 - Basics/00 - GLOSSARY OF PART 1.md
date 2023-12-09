@@ -1,6 +1,6 @@
 # <p align="center">Glossary</p>
 
-This glossary presents useful vocabulary and coding lingo, so that you can improve your coding vocabulary!
+This glossary presents useful vocabulary and coding lingo, so that you can improve your vocabulary!
 
 ---
 <details>

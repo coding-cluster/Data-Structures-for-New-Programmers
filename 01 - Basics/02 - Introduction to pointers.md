@@ -1,4 +1,6 @@
-# <p align="center">How memory works</p>
+
+# <p align="center">Introduction to pointers</p>
+## <p align="center">How memory works</p>
 
 When we talk about program execution, we mostly talk about the RAM (Random Access Memory)
 and it can be thought of as a big array of bytes. Bytes are the basic units of inforation
@@ -14,7 +16,7 @@ Let's take a look at the following example:
 is declared in the space 203, because each integer takes up to 4 bytes, it will be stored in
 the space 203, 204, 205, 206).
 
-# <p align="center">What is a pointer?</p>
+## <p align="center">What are pointers?</p>
 
 Pointers are practically variables that store the address of another variable, so, let's
 imagine that we want to store the address of a, well, we can do it like this:
@@ -61,7 +63,7 @@ printf("%d\n", &a);   // Prints the memory address of the variable (e.g. 0xc142f
 > get garbage values. So, make sure to initialize your variables before using them
 > or printing them to the console! :D
 
-# <p align="center">Referencing and Dereferencing?</p>
+## <p align="center">Referencing and Dereferencing?</p>
 
 You might know by now that a reference allows you to refer or "point" to the data stored in a variable,
 as well as its memory address and data type, but, **what is a dereference?** Well, dereferencing something
@@ -72,7 +74,7 @@ The importance of knowing the difference of both is, that when you dereference, 
 please with what's contained in the variable pointed, which is something that we'll explore a bit more in
 the next lesson.
 
-# <p align="center">Recap</p>
+## <p align="center">Recap</p>
 
 1. Information is stored in bytes in your memory, and every byte has an address, hence information too
 1. Pointing allows you to refer to the datum or information stored in a specific memory location

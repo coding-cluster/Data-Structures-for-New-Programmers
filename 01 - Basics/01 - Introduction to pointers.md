@@ -45,7 +45,7 @@ printf("%d\n", *p);   // Prints the value of the variable (e.g. 5)
 printf("%d\n", &p);   // Prints memory address of p (e.g 0xd142bdfe4)
 printf("%d\n", &a);   // Prints the memory address of the variable (e.g. 0xc142fcab4)
 ```
-**<p align="center">Here's what the terminal prints:</p>**
+**<p align="center">Here's the terminal's output:</p>**
 
 <p align="center">
     <img src="https://github.com/coding-cluster/Data-Structures-for-New-Programmers/assets/108909645/0479748b-e475-4bec-903e-3d6583a80b19"

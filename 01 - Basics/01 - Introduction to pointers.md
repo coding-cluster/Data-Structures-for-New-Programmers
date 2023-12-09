@@ -88,11 +88,11 @@ These are just some of the basics of what pointers are, in the upcoming lessons,
 
 If you want to delve a bit more in the topic, you can visit the next resources!
 
-[WIKIPEDIA]
+#### [ WIKIPEDIA ]
 https://en.wikipedia.org/wiki/Reference_(computer_science)#:~:text=In%20computer%20programming%2C%20a%20reference,is%20called%20dereferencing%20the%20reference.
 
-[TUTORIALS POINT]
+#### [ TUTORIALS POINT ]
 https://www.tutorialspoint.com/what-does-dereferencing-a-pointer-mean-in-c-cplusplus
 
-[W3Schools]
+#### [ W3Schools ]
 https://www.w3schools.com/c/c_pointers.php

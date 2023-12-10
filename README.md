@@ -4,6 +4,6 @@ Perhaps you have had a conversation with someone quite verbose and refined, some
 
 Because the dictionary is sorted in alphabetical order, it was pretty straightforward to find that desired word. However, let's think for a second that the dictionary was not sorted in alphabetical order but by the length of the words. Now, it isn't that easy to find that word, is it?
 
-Since the way we structure information is key to turning a paramount task into a simple one, understanding this interesting concept called **Data Structures** becomes important.
+Since the way we structure information is key to turning a paramount task into a simple one, understanding this interesting concept called **Data Structures** becomes vital.
 
 In this repository, I'll be learning Data Structures as I write notes for anyone learning too :)
